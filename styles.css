@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+}
+
+ol{
+    list-style: none;
+    border:5px double ;
+    width: 50%;
+    margin: auto;
+} 
+
+ol li {
+    border: 3px outset ;
+    display: inline-block;
+}
+
+ol li a {
+    color: lawngreen;
+}
+h1 {
+    margin: auto;
+}
